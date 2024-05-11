@@ -1,0 +1,6 @@
+#Ignore features folder
+features/
+#ignore folder of models saved
+models/
+#Ignore wandb folder
+python/wandb
