@@ -4,7 +4,7 @@
 
 - **Hand Gesture Recognition (HGR)** from video.
 
-This work combines **signal processing** and **state-of-the-art neural networks** (CNNs, ViViTs, Whisper, LLMs) to create systems capable of more natural and multimodal **human-computer interaction**.
+This work combines **signal processing** and **state-of-the-art neural networks** (CNNs, ViViTs) to create systems capable of more natural and multimodal **human-computer interaction**.
 
 ---
 
