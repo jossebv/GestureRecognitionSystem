@@ -1,6 +1,6 @@
 # Gesture Recognition System
 
-🚀 **GestureRecognitionSystem** is a deep learning project focused on **human behavior modeling** through two complementary tasks:
+🚀 **GestureRecognitionSystem** is a deep learning project focused on **human behavior modeling**:
 
 - **Hand Gesture Recognition (HGR)** from video.
 
@@ -59,9 +59,3 @@ pip install -r requirements.txt
 
 - Data augmentation for ViViT to improve generalization.
 - More efficient architectures for deployment on resource-constrained devices.
-
----
-
-## 📜 License
-
-This project is released under the **MIT License**.
